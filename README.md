@@ -1,5 +1,7 @@
 # friends
 
+## see the website at https://frozen-ridge-08717.herokuapp.com/#/
+
 ## Project setup
 ```
 npm install
