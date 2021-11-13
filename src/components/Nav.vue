@@ -36,6 +36,9 @@
           <b-button variant="outline-dark"><router-link tag="li" to="/">Home</router-link></b-button>
         </b-nav-item>
         <b-nav-item  >
+          <b-button variant="outline-dark"><router-link tag="li" to="/comment">Comments</router-link></b-button>
+        </b-nav-item>
+        <b-nav-item  >
           <b-button variant="outline-dark"><router-link tag="li" to="/about">About</router-link></b-button>
         </b-nav-item>
       </b-navbar-nav>
